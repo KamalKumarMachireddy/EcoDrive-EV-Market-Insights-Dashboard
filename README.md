@@ -32,8 +32,7 @@ The dashboard is divided into three primary sections:
 ## Installation and Setup
 
 To use this dashboard:
-
-1. Clone the repository:
+Download the EcoDrive-EV-Market-Insights-Dashboard.pbix file
    ```bash
-   git clone [https://github.com/KamalKumarMachireddy/EcoDrive-EV-Market-Insights-Dashboard.git
+   https://github.com/KamalKumarMachireddy/EcoDrive-EV-Market-Insights-Dashboard/blob/main/EcoDrive-EV-Market-Insights-Dashboard.pbix
    
